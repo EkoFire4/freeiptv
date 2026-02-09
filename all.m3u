@@ -346,7 +346,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=8QJNEGzWUANWfjPIq3NZ2VqrP7v1nSA5tvI94QdzZAkQDcNtQtg1SqqeMt-shHWmh5Eu_O_Pn6486ShY5Rdm8eIcrkC_GBXUSimXlUekny4
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=pAJ3WEYj5YN3YOozl_xWzp7g3jb8KE-FBD8j9ySltoMYWihQ7n8UipnEHYSyB4RcjV4BuzYVkgPxjYU05UYeJb1WX492V9rixqlvbuNmpn4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdFK5T1d/mouv.png",LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
@@ -588,7 +588,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=IxNUi-HSB4GM4lMvBrC3aLkVld7cWMkLvnaUqHCY4a3AtI7H26yVF1ufvowg4AkmrQHtqERZd1Ak9MF_W0MjhEVhXMvYeO3KYiJhVNjaF4s
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=WRLSlZfkJGPgMZ8Myng-TXgT5DZfepJPbDiS4ViuDYK9rl7ZTphIsXjGXKeitxB1_qFLOLg0r7gDw05MPTf7P6lCrcztjXFXlcdghNKoChg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1
 https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1 (backup)
