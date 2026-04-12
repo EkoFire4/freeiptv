@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1620752,RESOLUTION=854x480,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2"
-https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8?token=E7sZC4qzjysIdwN_jjUUpwe6nH7x2Zonm3Dg7jS13xQ&token_path=%2Fabr_corp%2F73_laayoune_pgagr52&expires=1775967861
+https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8?token=I5dSAaK_17dL5d0T-mVpGCS1EWdGOekT1vPX6BcQGMY&token_path=%2Fabr_corp%2F73_laayoune_pgagr52&expires=1775974220
 #EXT-X-STREAM-INF:BANDWIDTH=754169,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2"
-https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_360p/chunks_dvr.m3u8?token=E7sZC4qzjysIdwN_jjUUpwe6nH7x2Zonm3Dg7jS13xQ&token_path=%2Fabr_corp%2F73_laayoune_pgagr52&expires=1775967861
+https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_360p/chunks_dvr.m3u8?token=I5dSAaK_17dL5d0T-mVpGCS1EWdGOekT1vPX6BcQGMY&token_path=%2Fabr_corp%2F73_laayoune_pgagr52&expires=1775974220
 #EXT-X-STREAM-INF:BANDWIDTH=412044,RESOLUTION=426x240,FRAME-RATE=25,CODECS="avc1.4d4015,mp4a.40.2"
-https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_240p/chunks_dvr.m3u8?token=E7sZC4qzjysIdwN_jjUUpwe6nH7x2Zonm3Dg7jS13xQ&token_path=%2Fabr_corp%2F73_laayoune_pgagr52&expires=1775967861
+https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_240p/chunks_dvr.m3u8?token=I5dSAaK_17dL5d0T-mVpGCS1EWdGOekT1vPX6BcQGMY&token_path=%2Fabr_corp%2F73_laayoune_pgagr52&expires=1775974220
