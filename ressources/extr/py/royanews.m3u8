@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1920x1080,NAME="1080p"
-https://guxaykcuao.erbvr.com/royanews/royanews_1080p.m3u8?st=MDJMHOl5WBrnKmKZps1e7w&e=1776342510&sid=YDep9q9CdU2-7TvvyBQjPQ&bvr_flags=1&bvr_ch=royanews&bvr_bw=2500000
+https://guxaykcuao.erbvr.com/royanews/royanews_1080p.m3u8?st=fS9ZE2X6j-UqA0TE9zpKMw&e=1776358506&sid=GKvgMdpdvUCLiwBQB0AFLQ&bvr_flags=1&bvr_ch=royanews&bvr_bw=2500000
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720,NAME="720p"
-https://guxaykcuao.erbvr.com/royanews/royanews_720p.m3u8?st=MDJMHOl5WBrnKmKZps1e7w&e=1776342510&sid=YDep9q9CdU2-7TvvyBQjPQ&bvr_flags=1&bvr_ch=royanews&bvr_bw=1500000
+https://guxaykcuao.erbvr.com/royanews/royanews_720p.m3u8?st=fS9ZE2X6j-UqA0TE9zpKMw&e=1776358506&sid=GKvgMdpdvUCLiwBQB0AFLQ&bvr_flags=1&bvr_ch=royanews&bvr_bw=1500000
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=854x480,NAME="480p"
-https://guxaykcuao.erbvr.com/royanews/royanews_480p.m3u8?st=MDJMHOl5WBrnKmKZps1e7w&e=1776342510&sid=YDep9q9CdU2-7TvvyBQjPQ&bvr_flags=1&bvr_ch=royanews&bvr_bw=1000000
+https://guxaykcuao.erbvr.com/royanews/royanews_480p.m3u8?st=fS9ZE2X6j-UqA0TE9zpKMw&e=1776358506&sid=GKvgMdpdvUCLiwBQB0AFLQ&bvr_flags=1&bvr_ch=royanews&bvr_bw=1000000
 #EXT-X-STREAM-INF:BANDWIDTH=600000,RESOLUTION=640x360,NAME="360p"
-https://guxaykcuao.erbvr.com/royanews/royanews_360p.m3u8?st=MDJMHOl5WBrnKmKZps1e7w&e=1776342510&sid=YDep9q9CdU2-7TvvyBQjPQ&bvr_flags=1&bvr_ch=royanews&bvr_bw=600000
+https://guxaykcuao.erbvr.com/royanews/royanews_360p.m3u8?st=fS9ZE2X6j-UqA0TE9zpKMw&e=1776358506&sid=GKvgMdpdvUCLiwBQB0AFLQ&bvr_flags=1&bvr_ch=royanews&bvr_bw=600000
 
 
