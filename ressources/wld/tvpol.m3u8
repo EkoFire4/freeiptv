@@ -2,5 +2,5 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=4056800,AVERAGE-BANDWIDTH=2741200,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=50.000,AUDIO="program_audio_0"
-https://n-22-19.dcs.redcdn.pl/webcache/tvplive/__token__exp=1781139087~acl=/video/live/live171/nginx/T4D/*~id=16d76b7d-723d-4a27-8722-a01c47132127~hmac=713baf8dac6e67a03340dd109265e12e4d1f71b5fbfea9222ba05d520f2166c6/video/live/live171/nginx/T4D/156/master_v2.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://n-22-19.dcs.redcdn.pl/webcache/tvplive/__token__exp=1781139087~acl=/video/live/live171/nginx/T4D/*~id=16d76b7d-723d-4a27-8722-a01c47132127~hmac=713baf8dac6e67a03340dd109265e12e4d1f71b5fbfea9222ba05d520f2166c6/video/live/live171/nginx/T4D/156/master_a1.m3u8"
+https://rsdt-krk203-9.tvp.pl/token/video/live/51696824/20260611/882987624/pLc3JaA348erPF0RaRVSJzvhEdv5UQmnwLl5Qwt2Od-feqKlxAF-eQrv_xaFfd37aCeEUrlOnJBjk13wTwnGsWuQKXqIx1ljMNnavaQE42cVyi5lt8KYIGIPV4HFIWi0ib1D5xM-3nKM5J36RvnHvaUo3h_n0FirPUgjY88pCzk/156/master_v2.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://rsdt-krk203-9.tvp.pl/token/video/live/51696824/20260611/882987624/pLc3JaA348erPF0RaRVSJzvhEdv5UQmnwLl5Qwt2Od-feqKlxAF-eQrv_xaFfd37aCeEUrlOnJBjk13wTwnGsWuQKXqIx1ljMNnavaQE42cVyi5lt8KYIGIPV4HFIWi0ib1D5xM-3nKM5J36RvnHvaUo3h_n0FirPUgjY88pCzk/156/master_a1.m3u8"
