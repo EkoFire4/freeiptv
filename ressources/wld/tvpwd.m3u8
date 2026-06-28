@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:BANDWIDTH=4858000,AVERAGE-BANDWIDTH=4416000,CODECS="mp4a.40.2,avc1.640020",RESOLUTION=1280x720,FRAME-RATE=50,VIDEO-RANGE=SDR,AUDIO="audio-aacl-211",CLOSED-CAPTIONS=NONE"
-https://n-22-9.dcs.redcdn.pl/webcache/tvplive/__token__exp=1782684315~acl=/video/live/live249/bpk-tv/TVP_World/*~id=604fb975-6e62-401f-8473-5c6bdc10cd3c~hmac=ead426da277490a70d800b784e91971ef50050210d8e4bbda5a13164df2d79c8/video/live/live249/bpk-tv/TVP_World/156/TVP_World-audio_211682_pol=211200-video=3954400.m3u8
+https://n-16-16.dcs.redcdn.pl/webcache/tvplive/__token__exp=1782690853~acl=/video/live/live249/bpk-tv/TVP_World/*~id=0da7d442-0b4f-4a40-bf3b-5e5494c5c572~hmac=2b93aea6385a43deda22bbf5f06f263ab45c5615d33a1f70e5cbb1ac603d4d56/video/live/live249/bpk-tv/TVP_World/156/TVP_World-audio_211682_pol=211200-video=3954400.m3u8
