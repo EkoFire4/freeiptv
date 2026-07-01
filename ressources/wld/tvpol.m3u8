@@ -2,5 +2,5 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=4056800,AVERAGE-BANDWIDTH=2741200,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=50.000,AUDIO="program_audio_0"
-https://n-16-9.dcs.redcdn.pl/webcache/tvplive/__token__exp=1782933549~acl=/video/live/live171/nginx/T4D/*~id=1ade7fb2-7191-4547-a171-5203f777283b~hmac=2f94ea1b48279fabd77c6bd977db743cc5519aa6fdf02986c44f8e7223f563f5/video/live/live171/nginx/T4D/156/master_v2.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://n-16-9.dcs.redcdn.pl/webcache/tvplive/__token__exp=1782933549~acl=/video/live/live171/nginx/T4D/*~id=1ade7fb2-7191-4547-a171-5203f777283b~hmac=2f94ea1b48279fabd77c6bd977db743cc5519aa6fdf02986c44f8e7223f563f5/video/live/live171/nginx/T4D/156/master_a1.m3u8"
+https://tvp5.cache.orange.pl/tvp/live/valswY6uzwpG8wrFdilmPw/1782945682/video/live/live171/nginx/T4D/156/master_v2.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://tvp5.cache.orange.pl/tvp/live/valswY6uzwpG8wrFdilmPw/1782945682/video/live/live171/nginx/T4D/156/master_a1.m3u8"
