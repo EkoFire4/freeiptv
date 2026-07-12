@@ -2,5 +2,5 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=4056800,AVERAGE-BANDWIDTH=2741200,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=50.000,AUDIO="program_audio_0"
-https://n-22-20.dcs.redcdn.pl/webcache/tvplive/__token__exp=1783844421~acl=/video/live/live171/nginx/T4D/*~id=2c9ea14c-d1fe-4312-bb0f-cf66f5ae8a27~ip=52.165.58.33~hmac=7d6926af858710db3e6279b6c608510028b5b7f4bfde9fed6e0f9436b06be9f7/video/live/live171/nginx/T4D/156/master_v2.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://n-22-20.dcs.redcdn.pl/webcache/tvplive/__token__exp=1783844421~acl=/video/live/live171/nginx/T4D/*~id=2c9ea14c-d1fe-4312-bb0f-cf66f5ae8a27~ip=52.165.58.33~hmac=7d6926af858710db3e6279b6c608510028b5b7f4bfde9fed6e0f9436b06be9f7/video/live/live171/nginx/T4D/156/master_a1.m3u8"
+https://n-22-19.dcs.redcdn.pl/webcache/tvplive/__token__exp=1783854189~acl=/video/live/live171/nginx/T4D/*~id=1934c828-ac32-4d4d-b01b-988aaf23354a~ip=104.209.7.35~hmac=f2abe5d1dae1a78036372bb54a70e3a83697bc15f9dee289afbff987fe5fb023/video/live/live171/nginx/T4D/156/master_v2.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://n-22-19.dcs.redcdn.pl/webcache/tvplive/__token__exp=1783854189~acl=/video/live/live171/nginx/T4D/*~id=1934c828-ac32-4d4d-b01b-988aaf23354a~ip=104.209.7.35~hmac=f2abe5d1dae1a78036372bb54a70e3a83697bc15f9dee289afbff987fe5fb023/video/live/live171/nginx/T4D/156/master_a1.m3u8"
