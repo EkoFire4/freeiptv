@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4006441,BANDWIDTH=4210824,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d0029,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://guxaykcuao.erbvr.com/royanews/royanewspublish/royanews_source/hdntl=exp=1785655368~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=1e9d571d0ebdd736d68475f1acb3b2409766b9c5acc641f4215f3f5df4f5c7b6/chunks.m3u8
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1967269,BANDWIDTH=2538752,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://guxaykcuao.erbvr.com/royanews/royanewspublish/royanews_720p/hdntl=exp=1785655368~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=1e9d571d0ebdd736d68475f1acb3b2409766b9c5acc641f4215f3f5df4f5c7b6/chunks.m3u8
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1250135,BANDWIDTH=1566040,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://guxaykcuao.erbvr.com/royanews/royanewspublish/royanews_480p/hdntl=exp=1785655368~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=1e9d571d0ebdd736d68475f1acb3b2409766b9c5acc641f4215f3f5df4f5c7b6/chunks.m3u8
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1017240,BANDWIDTH=1280656,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://guxaykcuao.erbvr.com/royanews/royanewspublish/royanews_360p/hdntl=exp=1785655368~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=1e9d571d0ebdd736d68475f1acb3b2409766b9c5acc641f4215f3f5df4f5c7b6/chunks.m3u8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2714630,BANDWIDTH=4202006,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d0029,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://guxaykcuao.erbvr.com/royanews/royanewspublish/royanews_source/hdntl=exp=1785685909~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=200fe79ef768ebbc83470087c725eba6320bd739be3f5e10c7487e0e61e5c1f5/chunks.m3u8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2077637,BANDWIDTH=4042752,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://guxaykcuao.erbvr.com/royanews/royanewspublish/royanews_720p/hdntl=exp=1785685909~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=200fe79ef768ebbc83470087c725eba6320bd739be3f5e10c7487e0e61e5c1f5/chunks.m3u8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1239845,BANDWIDTH=2422568,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://guxaykcuao.erbvr.com/royanews/royanewspublish/royanews_360p/hdntl=exp=1785685909~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=200fe79ef768ebbc83470087c725eba6320bd739be3f5e10c7487e0e61e5c1f5/chunks.m3u8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1419126,BANDWIDTH=2381960,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://guxaykcuao.erbvr.com/royanews/royanewspublish/royanews_480p/hdntl=exp=1785685909~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=200fe79ef768ebbc83470087c725eba6320bd739be3f5e10c7487e0e61e5c1f5/chunks.m3u8
 
 
