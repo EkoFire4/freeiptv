@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=2622400,AVERAGE-BANDWIDTH=2525600,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna//hdntl=exp=1793338493~acl=%2f*~data=hdntl~hmac=7a1bfd29bca3b7b5e822914f71b7a9278de9a38f436a83e38b61855bf136eec3/video_7201280_p_1.m3u8
+https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna//hdntl=exp=1793404431~acl=%2f*~data=hdntl~hmac=7a2088a7771f3a43bcfbf872e05a25e184d428b29191118f369fb3b4d61a6ffd/video_7201280_p_1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4681600,AVERAGE-BANDWIDTH=4505600,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000
-https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna//hdntl=exp=1793338494~acl=%2f*~data=hdntl~hmac=4b89769ae782f6d1090a1f5044237da71c68f05d644d4eb417f107db91e9ba06/index_4000.m3u8
+https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna//hdntl=exp=1793404432~acl=%2f*~data=hdntl~hmac=a87b7b563071133df55823a1a54b7ace9af568cebeab6f03edf4921a515dbbe5/index_4000.m3u8
