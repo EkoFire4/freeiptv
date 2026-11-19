@@ -2,5 +2,5 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=4056800,AVERAGE-BANDWIDTH=2741200,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=50.000,AUDIO="program_audio_0"
-https://ec04-waw3.v4.cache.orange.pl/tvp/live/A41uQLzX7TDcg6yb_WgSKQ/1795052850/video/live/live251/catchup/T4D/master_v2.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://ec04-waw3.v4.cache.orange.pl/tvp/live/A41uQLzX7TDcg6yb_WgSKQ/1795052850/video/live/live251/catchup/T4D/master_a1.m3u8"
+https://ec03-waw1.v4.cache.orange.pl/tvp/live/LdwunyJvmwUPo29VrKMRyA/1795076105/video/live/live251/catchup/T4D/master_v2.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="pol",NAME="Polski",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",GROUP-ID="program_audio_0",URI="https://ec03-waw1.v4.cache.orange.pl/tvp/live/LdwunyJvmwUPo29VrKMRyA/1795076105/video/live/live251/catchup/T4D/master_a1.m3u8"
